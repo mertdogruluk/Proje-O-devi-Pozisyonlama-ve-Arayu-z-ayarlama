@@ -1,0 +1,49 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.navbar-collapse{
+    text-align: center;
+    justify-content: space-between !important;
+    display: flex !important;
+  
+}
+.navbar-nav{
+    flex-direction: row !;
+    margin-left: auto;
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: row;
+}
+#from{
+    display: block;
+    padding-top: 48px;
+}
+#footer-container{
+    display: block;
+}
+#ronnie{
+    width: 40px;
+}
+#plans{
+    font-size: 55px;
+}
+#ileri-seviye{
+    height: 490px;
+}
+#yarışmacı-paket{
+    height: 490px;
+
+}
+.butonlar{
+    margin-top: 50px;
+}
+
+
+
+
